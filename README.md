@@ -1,10 +1,10 @@
-<h3 align="center">Hi 👋, I'm Johannes, a ML developer from Germany</h3>
+<h3 align="center">Hi 👋, I'm Johannes, a Data Engineer from Germany</h3>
 
-- 💻 Experienced in the fields of Computer Vision ([Treeo.AI](https://github.com/Johannes0Horn/Treeo.AI), [endslate.ai](https://github.com/Johannes0Horn/endslate.ai), [Push-up-counter-app](https://github.com/Johannes0Horn/Push-up-counter-app)), NLP and Reinforcement Learning ([Self-learning-spider-robot](https://github.com/Johannes0Horn/Self-learning-spider-robot), [RL_sample_injection](https://github.com/Johannes0Horn/RL_sample_injection))
+- 🌱 I’m currently working with **Databricks, Azure Data Fatory, DevOps, SQL**
 
-- 🌱 I’m currently learning **Flutter, Tensorflow Lite**
+- 💻 Also experienced in the fields of Computer Vision ([Treeo.AI](https://github.com/Johannes0Horn/Treeo.AI), [endslate.ai](https://github.com/Johannes0Horn/endslate.ai), [Push-up-counter-app](https://github.com/Johannes0Horn/Push-up-counter-app)), NLP and Reinforcement Learning ([Self-learning-spider-robot](https://github.com/Johannes0Horn/Self-learning-spider-robot), [RL_sample_injection](https://github.com/Johannes0Horn/RL_sample_injection))
 
-- 💬 Ask me about **PyTorch, TensorFlow, scikit-learn**
+- 💬 Ask me about **pandas, PyTorch, TensorFlow, scikit-learn**
 
 - 📫 How to reach me **johannes0horn@gmail.com**
 
